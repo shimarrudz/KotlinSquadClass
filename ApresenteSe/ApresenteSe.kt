@@ -1,8 +1,9 @@
 fun main(){
     
-    var nome = "Augusto"
-    var capacidade = 5
-    var inicial = 'A'
+    var nomeA = "Augusto"
+    var capacidadeA = 5
+    var inicialA = 'A'
+
 
     println("Meu nome é $nome, capacidade $capacidade, minha inicial é $inicial")
 }
